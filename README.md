@@ -1,16 +1,25 @@
-## Hi there 👋
+### formal me
+Hello everyone, I have a good understanding of Azure, Shell, Server's and Computer Hardware. With 2+ years of experience in Helpdesk(IT Support) and Skilled with Microsoft Azure Cloud services and Azure DevOps, ensuring best practice and troubleshooting issues.
 
-<!--
-**shashankg32/shashankg32** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+I'm always ready to collaborate, learn and adopt new technologies. 
+And I am actively seeking guidance and feedback from mentors and colleagues to improve my skills.
 
-Here are some ideas to get you started:
+Development : C, Java, JavaScript, PHP
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+Framework : React, Angular, Spring Boot, Laravel
+
+Database : MySQL, MongoDB
+
+OS : Ubuntu, Mint, Arch, Windows
+
+Cloud : Azure
+
+🌱🌲🌳🌴🌵🌾🌿☘🍀🍁🍂🍃🍄🌸💮💐🏵🌻🌺🌼🌷🌹🦠🦟🦂🕸🕷🦗🐞🐝🐜🐛🦋🐌🐚🐙🦈🐡🐠🐟🐋🦖🦕🦎🐢🐊🦜🦅🕊🐧🐦🐥🐓🐔🦃🦡🦘🦨🦦🦥🐼🐨🐻🦇🦔🐿🐰🐀🦏🐘🦒🐪🐐🐏🐷🐃🐮🐱🐈🐺🦄🦓🐯🦁🐒🌍
+
+### informal me
+-  I’m currently working on ... many things!
+-  I’m currently learning ... DSA with (Java, Python, Javascript, GO, Rust, PHP), Azure, GATE CSE, MERN, MEAN, LAMP, Drupal, Shell/BASH, Carnatic, Occasionally Maths, UIUX, PSE, Random Blogs and Stuff on Internet
+-  I’m looking to collaborate on ... many things!
+-  I’m looking for help with ... Azure and Linux Kernal 
+-  Ask me about ... nothing cause i'm trishanku 
+-  Pronouns: ... A to Z || a to z || 0 to 9 || ~`!@#$%^&*()_+-={}|[]\:";'<>,.?
