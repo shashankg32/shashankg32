@@ -14,12 +14,10 @@ OS : Ubuntu, Mint, Arch, Windows
 
 Cloud : Azure
 
-🌱🌲🌳🌴🌵🌾🌿☘🍀🍁🍂🍃🍄🌸💮💐🏵🌻🌺🌼🌷🌹🦠🦟🦂🕸🕷🦗🐞🐝🐜🐛🦋🐌🐚🐙🦈🐡🐠🐟🐋🦖🦕🦎🐢🐊🦜🦅🕊🐧🐦🐥🐓🐔🦃🦡🦘🦨🦦🦥🐼🐨🐻🦇🦔🐿🐰🐀🦏🐘🦒🐪🐐🐏🐷🐃🐮🐱🐈🐺🦄🦓🐯🦁🐒🌍
+🌱🌻🐝🦄🌍
 
 ### informal me
 -  I’m currently working on ... many things!
--  I’m currently learning ... DSA with (Java, Python, Javascript, GO, Rust, PHP), Azure, GATE CSE, MERN, MEAN, LAMP, Drupal, Shell/BASH, Carnatic, Occasionally Maths, UIUX, PSE, Random Blogs and Stuff on Internet
 -  I’m looking to collaborate on ... many things!
--  I’m looking for help with ... Azure and Linux Kernal 
--  Ask me about ... nothing cause i'm trishanku 
+-  I’m looking for help with ... Azure and Linux Kernal
 -  Pronouns: ... A to Z || a to z || 0 to 9 || ~`!@#$%^&*()_+-={}|[]\:";'<>,.?
